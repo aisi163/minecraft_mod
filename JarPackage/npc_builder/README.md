@@ -14,14 +14,14 @@
     <tr style="background-color: #eef2f7;">
       <th style="padding: 12px 8px; border: 1px solid #e1e4e8; text-align: left; font-weight: 600;">版本号</th>
       <th style="padding: 12px 8px; border: 1px solid #e1e4e8; text-align: left; font-weight: 600;">版本创建时间</th>
-      <th style="padding: 12px 8px; border: 1px solid #e1e4e8; text-align: left; font-weight: 600;">弃用状态</th>
+      <th style="padding: 12px 8px; border: 1px solid #e1e4e8; text-align: left; font-weight: 600;">启用状态</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">v1.0.0</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-02-19</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">否</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">✅否</td>
     </tr>
     <!-- 如需新增历史版本，按以下格式添加即可 -->
     <!--
@@ -34,7 +34,7 @@
   </tbody>
 </table>
 
-<h2>💡 使用说明</h2>
+<h2>使用说明</h2>
 <ul style="line-height: 1.8; margin: 10px 0 20px 20px;">
   <li>仅推荐使用<strong>未弃用版本</strong>，弃用版本存在已知BUG/兼容性问题，不保证正常运行；</li>
   <li>Jar 包适配 Minecraft Java 双端服务器，无需编译，直接部署；</li>
