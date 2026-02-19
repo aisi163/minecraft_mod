@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: my_entity1
-Implementation-Version: 1.0
-Specification-Vendor: examplemodsareus
-Specification-Title: examplemod
-Implementation-Timestamp: 2026-02-18T21:47:59+0800
-Specification-Version: 1
-Implementation-Vendor: examplemodsareus
-
