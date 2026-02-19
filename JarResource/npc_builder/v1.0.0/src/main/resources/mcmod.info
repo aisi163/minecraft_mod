@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "npc_builder",
+    "name": "NPC Builder (Bilateral)",
+    "description": "(Bilateral) 一个轻量级的Minecraft Forge NPC构建工具模组，允许开发者/服务器管理员创建高度自定义的NPC实体。该模组基于ArmorStand作为NPC载体，可绑定任意原版生物（僵尸、村民、动物等）作为宿主实体，支持关闭AI、自定义实体属性（无敌、无重力、名称标签）、位置持久化、NBT数据存储等核心功能，全程无需反射调用，完全遵循Forge开发规范，兼容原版实体体系。",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["aisi163"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "required-after:forge@[14.23.5.2854,)"
+    ],
+    "useDependencyInformation": true
+  }
+]
