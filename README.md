@@ -24,7 +24,7 @@
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.0.0</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-02-19</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; line-height: 1.5;">面向服务器开发者的NPC快速构建工具, 大幅降低双端服务器NPC开发门槛。</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java/Bedrock（双端）</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java（双端）</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">否</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">NPC Builder</td>
