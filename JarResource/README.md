@@ -15,7 +15,7 @@
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">NPC Builder</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.0.0</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">
-        <a href="https://github.com/你的用户名/你的仓库名/tree/main/minecraft_mod/JarResource/npc_builder" target="_blank" style="color: #0366d6; text-decoration: none;">
+        <a href="https://github.com/aisi163/minecraft_mod/tree/main/JarResource/npc_builder/v1.0.0" target="_blank" style="color: #0366d6; text-decoration: none;">
           点击访问
         </a>
       </td>
