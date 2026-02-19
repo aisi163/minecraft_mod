@@ -3,7 +3,7 @@
 
 <h2>最新版本下载</h2>
 <p style="font-size: 15px; line-height: 1.8;">
-  <a href="https://github.com/你的用户名/你的仓库名/releases/tag/npc-builder-v1.0.0" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 600;">
+  <a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-v1.0.0.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 600;">
     NPC Builder v1.0.0 正式版
   </a>
 </p>
