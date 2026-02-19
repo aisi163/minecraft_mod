@@ -3,7 +3,9 @@
 
 <h2>功能限制说明</h2>
 <p style="font-size: 15px; line-height: 1.8; padding: 10px; background-color: #fff8f8; border-left: 4px solid #d73a4a;">
-  <strong>注意</strong>：「业务场景绑定」模块中的<strong>服务器跳转</strong>功能，因网易Minecraft平台接口限制，本版本暂未开发，相关命令仅为预留标识，执行后无实际效果。
+  <strong>注意</strong>：<br>
+  1.「业务场景绑定」模块中的<strong>服务器跳转</strong>功能，因网易Minecraft平台接口限制，本版本暂未开发，相关命令仅为预留标识，执行后无实际效果。<br> 
+  2. 上述代码为Forge gradle项目的源码部分，它不是完整的Forge gradle项目。
 </p>
 
 <h2>核心功能列表</h2>
