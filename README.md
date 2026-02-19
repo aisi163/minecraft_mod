@@ -1,7 +1,26 @@
-<h1>Minecraft 模组开发工具集</h1>
-<p>本项目聚焦于<strong>简化服务器开发</strong>，提供高效的 Minecraft 模组工具，覆盖 NPC 构建、世界生成等核心场景。</p>
+<!-- 目录说明：固定左右布局，宽度均分，不换行 -->
+<div style="display: flex; gap: 15px; margin: 20px 0; width: 100%;">
+  <div style="width: 48%; padding: 20px; background-color: #e8f4f8; border-radius: 8px; border: 1px solid #0366d6;">
+    <h3 style="margin-top: 0; margin-bottom: 12px; color: #0366d6; font-size: 18px;">
+    补充说明
+    </h3>
+    <p style="line-height: 1.6; margin-bottom: 0; font-size: 14px;">
+      模组<strong>开源源码</strong>存放位置:&nbsp;
+      <a href="https://github.com/aisi163/minecraft_mod/tree/main/JarResource" target="_blank" style="color: #0366d6; font-weight: 500;">
+      点击此处访问</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;可直接部署的<strong>成品Jar包</strong>存放位置:&nbsp;<a href="https://github.com/aisi163/minecraft_mod/tree/main/JarPackage" target="_blank" style="color: #28a745; font-weight: 500;">点击此处访问</a>
+    </p>
+  </div>
+</div>
+<br>
+<!-- 主标题强化：增大字号、加下划线、调整间距，突出核心 -->
+<h1 style="font-size: 32px; color: #24292e; border-bottom: 3px solid #0366d6; padding-bottom: 10px; margin-top: 40px; margin-bottom: 20px;">
+  Minecraft 模组开发工具集
+</h1>
+<p style="font-size: 16px; line-height: 1.8; color: #24292e; margin-bottom: 30px;">
+  本项目聚焦于<strong>简化服务器开发</strong>，提供高效的 Minecraft 模组工具，覆盖 NPC 构建、世界生成等核心场景。
+</p>
 
-<h2>产品列表</h2>
+<h2 style="font-size: 22px; color: #24292e; margin-top: 30px;">产品列表</h2>
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 14px;">
   <thead>
     <tr style="background-color: #f6f8fa;">
@@ -61,23 +80,23 @@
   </tbody>
 </table>
 
-<h2>产品日志</h2>
-<ul style="line-height: 1.8; margin: 10px 0 20px 20px;">
+<h2 style="font-size: 22px; color: #24292e; margin-top: 30px;">产品日志</h2>
+<ul style="line-height: 1.8; margin: 10px 0 20px 20px; font-size: 14px;">
   <li><strong>NPC Builder (v1.0.0)</strong>：已正式发布的双端适配工具，核心解决服务器开发中NPC创建流程繁琐的问题，支持一键生成自定义NPC并绑定基础交互逻辑，适配 Java 与基岩版服务器，助力开发者快速搭建游戏内生态。</li>
   <li><strong>World Creator</strong>：（待上线）计划开发的服务端世界创建工具，目前处于规划阶段，具体功能与发布时间待定。</li>
   <li><strong>Biome Generator</strong>：（待上线）计划开发的生物群系生成工具，目前处于规划阶段，具体功能与发布时间待定。</li>
 </ul>
 
-<h2>开发与开源说明</h2>
-<ul style="line-height: 1.8; margin: 10px 0 20px 20px;">
+<h2 style="font-size: 22px; color: #24292e; margin-top: 30px;">开发与开源说明</h2>
+<ul style="line-height: 1.8; margin: 10px 0 20px 20px; font-size: 14px;">
   <li>核心目标：<strong>简化服务器开发</strong>，降低模组与服务端功能的开发门槛。</li>
   <li>开源规范：已上线产品遵循 MIT 许可，允许商用与二次修改，需保留原作者声明。</li>
   <li>版本管理：旧版本代码归档至指定仓库，如需回溯历史版本可访问对应链接。</li>
   <li>更新计划：未上线项目的信息将随开发进度持续更新，欢迎通过 Issues 提供建议。</li>
 </ul>
 
-<h2>联系与反馈</h2>
-<ul style="line-height: 1.8; margin: 10px 0 20px 20px;">
+<h2 style="font-size: 22px; color: #24292e; margin-top: 30px;">联系与反馈</h2>
+<ul style="line-height: 1.8; margin: 10px 0 20px 20px; font-size: 14px;">
   <li>使用问题：如在使用 NPC Builder 过程中遇到功能异常、兼容性问题，可提交至本仓库 <strong>Issues</strong>。</li>
   <li>功能建议：针对待上线项目或已上线工具的优化建议，可在 Issues 中详细描述场景与需求。</li>
   <li>响应时效：常规问题将在 1-3 个工作日内回复，紧急问题可优先标注并@维护者。</li>
