@@ -21,13 +21,13 @@
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">World Creator</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">-</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">-（暂未发布）</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">(暂未发布）</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">无链接</td>  
     </tr>
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Biome Generator</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">-</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">-（暂未发布）</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">(暂未发布）</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">无链接</td>
     </tr>
   </tbody>
