@@ -28,6 +28,15 @@
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.12.2</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java版</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">双端（客户端/服务端）</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">是</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;"><a href="https://github.com/aisi163/minecraft_mod/tree/main/JarResource/npc_builder/v1.0.1">v1.0.1</a></td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-02-25</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java 17</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.12.2</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java版</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">双端（客户端/服务端）</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">否</td>
     </tr>
     <!-- 如需新增历史版本，按以下模板添加 -->
