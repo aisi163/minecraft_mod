@@ -82,5 +82,5 @@
 </ul>
 
 <p style="color: #6a737d; font-size: 14px; border-top: 1px solid #e1e4e8; padding-top: 15px; margin-top: 20px;">
-  最后更新时间：2026-02-25 | NPC Builder v1.0.0 功能说明
+  最后更新时间：2026-02-25 | NPC Builder v1.0.1 功能说明
 </p>
