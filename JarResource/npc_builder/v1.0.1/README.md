@@ -1,5 +1,5 @@
-<h1>NPC Builder v1.0.0 - 功能说明文档</h1>
-<p>本目录为 NPC Builder v1.0.0 开源Jar资源的功能说明页，以下为该版本已实现的核心功能及命令说明。</p>
+<h1>NPC Builder v1.0.1 - 功能说明文档</h1>
+<p>本目录为 NPC Builder v1.0.1 开源Jar资源的功能说明页，以下为该版本已实现的核心功能及命令说明。</p>
 
 <h2>更新内容</h2>
 <p style="font-size: 15px; line-height: 1.8; padding: 10px; background-color: #fff8f8; border-left: 4px solid #d73a4a;">
