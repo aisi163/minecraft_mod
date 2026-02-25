@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">NPC Builder</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.0.0</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.0.1</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-02-19</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; line-height: 1.5;">面向服务器开发者的NPC快速构建工具, 大幅降低双端服务器NPC开发门槛。</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">Java（双端）</td>
@@ -82,7 +82,7 @@
 
 <h2 style="font-size: 22px; color: #24292e; margin-top: 30px;">产品日志</h2>
 <ul style="line-height: 1.8; margin: 10px 0 20px 20px; font-size: 14px;">
-  <li><strong>NPC Builder (v1.0.0)</strong>：已正式发布的双端适配工具，核心解决服务器开发中NPC创建流程繁琐的问题，支持一键生成自定义NPC并绑定基础交互逻辑，适配 Java 与基岩版服务器，助力开发者快速搭建游戏内生态。</li>
+  <li><strong>NPC Builder (v1.0.1)</strong>：优化代码结构, 添加提示信息</li>
   <li><strong>World Creator</strong>：（待上线）计划开发的服务端世界创建工具，目前处于规划阶段，具体功能与发布时间待定。</li>
   <li><strong>Biome Generator</strong>：（待上线）计划开发的生物群系生成工具，目前处于规划阶段，具体功能与发布时间待定。</li>
 </ul>
