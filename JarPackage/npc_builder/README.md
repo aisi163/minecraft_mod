@@ -3,8 +3,8 @@
 
 <h2>最新版本下载</h2>
 <p style="font-size: 15px; line-height: 1.8;">
-  <a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-v1.0.0.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 600;">
-    NPC Builder v1.0.0 正式版
+  <a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-v1.0.1.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 600;">
+    NPC Builder v1.0.1 正式版
   </a>
 </p>
 
@@ -21,16 +21,13 @@
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">v1.0.0</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-02-19</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">是</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">v1.0.1</td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-02-25</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">否</td>
     </tr>
-    <!-- 如需新增历史版本，按以下格式添加即可 -->
-    <!--
-    <tr>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">v0.9.0（测试版）</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">2026-01-15</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">✅ 是（仅用于测试，已下线）</td>
-    </tr>
-    -->
   </tbody>
 </table>
 
