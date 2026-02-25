@@ -3,7 +3,7 @@
 
 <h2>最新稳定版本</h2>
 <p style="font-size: 15px; line-height: 1.8; padding: 10px; background-color: #f0f8fb; border-left: 4px solid #0366d6;">
-  <strong>当前主推版本：v1.0.1 <a href="https://github.com/aisi163/minecraft_mod/tree/main/JarResource/npc_builder/v1.0.1">访问此项目</a></strong> | 适配 Minecraft 1.20.1（Java双端） | 推荐 Java 17 运行
+  <strong>当前主推版本：v1.0.1 <a href="https://github.com/aisi163/minecraft_mod/tree/main/JarResource/npc_builder/v1.0.1">访问此项目</a></strong> | 适配 Minecraft 1.12.2（Java双端） | 推荐 Java 17 运行
 </p>
 
 <h2>版本详细清单</h2>
@@ -63,5 +63,5 @@
 </ul>
 
 <p style="color: #6a737d; font-size: 14px; border-top: 1px solid #e1e4e8; padding-top: 15px; margin-top: 20px;">
-  最后更新时间：2026-02-19 | NPC Builder 开源资源管理页
+  最后更新时间：2026-02-25 | NPC Builder 开源资源管理页
 </p>
