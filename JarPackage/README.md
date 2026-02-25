@@ -16,7 +16,7 @@
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8; font-weight: 500;">NPC Builder</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">1.0.1</td>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">正式版</td>
-      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;"><a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-v1.0.1.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">npc-builder-v1.0.1.jar</a></td>
+      <td style="padding: 12px 8px; border: 1px solid #e1e4e8;"><a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-1.0.1.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">npc-builder-v1.0.1.jar</a></td>
     </tr>
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e1e4e8;">World Creator</td>
@@ -35,7 +35,7 @@
 
 <h2>最新产品获取</h2>
 <ul style="line-height: 1.8; margin: 10px 0 20px 20px;">
-  <li>NPC Builder 1.0.1 正式版下载：<a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-v1.0.0.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">npc-builder-v1.0.1.jar</a></li>
+  <li>NPC Builder 1.0.1 正式版下载：<a href="https://github.com/aisi163/minecraft_mod/blob/main/JarPackage/npc_builder/npc_builder-1.0.0.jar" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">npc-builder-v1.0.1.jar</a></li>
   <li>注：未发布模组的 Jar 包将随版本迭代同步更新至本目录</li>
 </ul>
 
